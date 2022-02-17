@@ -7,41 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f57fac0-eae7-4df0-b5ad-5ecaaca20984" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cphw_02_17/DigitsCount.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cphw_02_17/InputCheck.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cphw_02_17/LastDigit.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cphw_02_17/NextEven.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cphw_02_17/ReceivingInput.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cphw_02_17/Route.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.cphw_02_17/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.cphw_02_17/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.cphw_02_17/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/Hypotenuse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/cphw_02_17/Hypotenuse.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/InputOutput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/cphw_02_17/InputOutput.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/cphw_02_17/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/Program22.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/bin/Debug/net6.0/cphw_02_17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/bin/Debug/net6.0/cphw_02_17.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/bin/Debug/net6.0/cphw_02_17.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/bin/Debug/net6.0/cphw_02_17.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/bin/Debug/net6.0/cphw_02_17.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/bin/Debug/net6.0/ref/cphw_02_17.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/obj/Debug/net6.0/cphw_02_17.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/cphw_02_17/obj/Debug/net6.0/cphw_02_17.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/obj/Debug/net6.0/cphw_02_17.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/cphw_02_17/obj/Debug/net6.0/cphw_02_17.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/obj/Debug/net6.0/cphw_02_17.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/cphw_02_17/obj/Debug/net6.0/cphw_02_17.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/obj/Debug/net6.0/cphw_02_17.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cphw_02_17/obj/Debug/net6.0/cphw_02_17.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/obj/Debug/net6.0/cphw_02_17.dll" beforeDir="false" afterPath="$PROJECT_DIR$/cphw_02_17/obj/Debug/net6.0/cphw_02_17.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/obj/Debug/net6.0/cphw_02_17.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/cphw_02_17/obj/Debug/net6.0/cphw_02_17.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/obj/Debug/net6.0/cphw_02_17.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cphw_02_17/obj/Debug/net6.0/cphw_02_17.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/obj/Debug/net6.0/ref/cphw_02_17.dll" beforeDir="false" afterPath="$PROJECT_DIR$/cphw_02_17/obj/Debug/net6.0/ref/cphw_02_17.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/obj/cphw_02_17.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/cphw_02_17/obj/cphw_02_17.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/cphw_02_17/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/cphw_02_17/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/cphw_02_17/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cphw_02_17/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/cphw_02_17/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="9f57fac0-eae7-4df0-b5ad-5ecaaca20984" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +31,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -97,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1645071302589</updated>
       <workItem from="1645071302596" duration="6423000" />
-      <workItem from="1645105375351" duration="5518000" />
+      <workItem from="1645105375351" duration="5937000" />
     </task>
     <servers />
   </component>
