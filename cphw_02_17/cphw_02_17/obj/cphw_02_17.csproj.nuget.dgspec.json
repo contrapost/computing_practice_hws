@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/gregory/programming/first_test_project/cphw_02_17/cphw_02_17/cphw_02_17.csproj": {}
+    "/home/gregory/programming/computing_practice_hws/cphw_02_17/cphw_02_17/cphw_02_17.csproj": {}
   },
   "projects": {
-    "/home/gregory/programming/first_test_project/cphw_02_17/cphw_02_17/cphw_02_17.csproj": {
+    "/home/gregory/programming/computing_practice_hws/cphw_02_17/cphw_02_17/cphw_02_17.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gregory/programming/first_test_project/cphw_02_17/cphw_02_17/cphw_02_17.csproj",
+        "projectUniqueName": "/home/gregory/programming/computing_practice_hws/cphw_02_17/cphw_02_17/cphw_02_17.csproj",
         "projectName": "cphw_02_17",
-        "projectPath": "/home/gregory/programming/first_test_project/cphw_02_17/cphw_02_17/cphw_02_17.csproj",
+        "projectPath": "/home/gregory/programming/computing_practice_hws/cphw_02_17/cphw_02_17/cphw_02_17.csproj",
         "packagesPath": "/home/gregory/.nuget/packages/",
-        "outputPath": "/home/gregory/programming/first_test_project/cphw_02_17/cphw_02_17/obj/",
+        "outputPath": "/home/gregory/programming/computing_practice_hws/cphw_02_17/cphw_02_17/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gregory/.nuget/NuGet/NuGet.Config"

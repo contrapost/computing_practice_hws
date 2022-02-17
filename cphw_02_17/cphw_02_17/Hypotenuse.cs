@@ -1,4 +1,5 @@
 using static cphw_02_17.InputOutput;
+// using static cphw_02_17.InputCheck;
 
 namespace cphw_02_17;
 
