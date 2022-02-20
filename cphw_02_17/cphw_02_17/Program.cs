@@ -8,26 +8,26 @@ internal static class Program
     {
         // Hypotenuse task;
         Print("Task 1. \nType here your 'a' and 'b' legs: ");
-        var a = Hypotenuse.A;
-        var b = Hypotenuse.B;
+        var a = Convert.ToInt32(Input());
+        var b = Convert.ToInt32(Input());
         PrintLn(">>>>>>>>>>>>>>>\nHere is your hypotenuse: " + Hypotenuse.GetHyp(a, b));
         // Last digit task;
         Print("\nTask 5. \nType your number here: ");
-        var num = LastDigit.Number;
+        var num = Input();
         PrintLn(">>>>>>>>>>>>>>>\nHere is your number's last digit: " + LastDigit.GetLastDigit(num));
         // Next even number task;
         Print("\nTask 9. \nType your number here: ");
-        var evenChecked = NextEven.Number;
+        var evenChecked = Convert.ToInt32(Input());
         PrintLn(">>>>>>>>>>>>>>>\nHere is your number's next even: " + NextEven.GetNextEven(evenChecked));
         // Get days task;
         Print("\nTask 10. \nType your distance and daily distance here: ");
-        var distance = Route.Distance;
-        var dailyDistance = Route.DailyDistance;
+        var distance = Convert.ToInt32(Input());
+        var dailyDistance = Convert.ToInt32(Input());
         PrintLn(">>>>>>>>>>>>>>>\nHere is your transport passage time in days: " 
                 + Route.GetTime(distance, dailyDistance));
         // Get digits' sum task;
         Print("\nTask 8. \nType your number here: ");
-        var numberForSum = DigitsCount.Number;
+        var numberForSum = Convert.ToInt32(Input());
         PrintLn(">>>>>>>>>>>>>>>\nHere is sum of digits of your number: " + 
                 DigitsCount.GetDigitsSum(numberForSum));
     }
